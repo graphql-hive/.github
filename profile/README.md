@@ -7,5 +7,7 @@
 
   <a href="https://the-guild.dev/graphql/hive" title="Visit Hive website">Website</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://the-guild.dev/graphql/hive/docs/gateway" title="Learn about our GraphQL Gateway">Gateway</a>
+  <a href="https://the-guild.dev/graphql/hive/docs/gateway" title="Learn about our GraphQL Gateway">Gateway (JS)</a>
+  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
+  <a href="https://the-guild.dev/graphql/hive/docs/router" title="Learn about our GraphQL Router">Router (Rust)</a>
 </div>
